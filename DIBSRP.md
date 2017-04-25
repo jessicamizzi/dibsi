@@ -19,11 +19,11 @@ The Lab for Data Intensive Biology at the University of California Davis is exci
 
 ## Program Goals
 
-- Prepare participants from groups historically underrepresented minorities (https://www.nsf.gov/statistics/2017/nsf17310/)) for success in the rapidly growing field of data science
+- Prepare participants from groups historically underrepresented minorities [https://www.nsf.gov/statistics/2017/nsf17310/](https://www.nsf.gov/statistics/2017/nsf17310/) for success in the rapidly growing field of data science
 - Engage students in research at a tier one research university and the #1 ranked vet school in the world
 - Teach participants data science skills (command-line, shell scripting, Python, etc.) for analysis of metagenomic and transcriptomic data.
 - Help students produce poster and powerpoint presentations on their summer research projects that will be presented at an end of summer symposium and (where possible) other scientific meetings
-- Review career options in computational biology and help prepare cv’s, resumes, academic statements and personal statements needed for career and graduate school applications
+- Review career options in computational biology and help prepare CVs, resumes, academic statements and personal statements needed for career and graduate school applications
 
 ## Program Eligibility 
 
